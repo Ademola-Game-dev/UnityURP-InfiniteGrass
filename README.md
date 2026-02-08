@@ -4,7 +4,7 @@ Fully Procedural and Dynamic Grass for Unity URP.
 It meant to be a fast to implement grass system that doesn't need any baking or having any static environemnt.</br>
 Just enable it, give it the LayerMask of the objects where you want it to be, and everything gets drawn procedurally.
 
-If you find it usefull and want to help me maintain it, please consider supporting me :</br>
+If you find it usefull and want to help me maintain it, please consider supporting :</br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/youssef_afella)
 
 ### Preview Video
